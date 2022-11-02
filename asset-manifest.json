@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/small-movies-app/static/css/main.a6d48ce8.css",
-    "main.js": "/small-movies-app/static/js/main.02bfe6aa.js",
-    "static/js/787.7c42db31.chunk.js": "/small-movies-app/static/js/787.7c42db31.chunk.js",
-    "index.html": "/small-movies-app/index.html",
-    "main.a6d48ce8.css.map": "/small-movies-app/static/css/main.a6d48ce8.css.map",
-    "main.02bfe6aa.js.map": "/small-movies-app/static/js/main.02bfe6aa.js.map",
-    "787.7c42db31.chunk.js.map": "/small-movies-app/static/js/787.7c42db31.chunk.js.map"
+    "main.css": "/small-movie-app/static/css/main.a6d48ce8.css",
+    "main.js": "/small-movie-app/static/js/main.5f170e6f.js",
+    "static/js/787.7c42db31.chunk.js": "/small-movie-app/static/js/787.7c42db31.chunk.js",
+    "index.html": "/small-movie-app/index.html",
+    "main.a6d48ce8.css.map": "/small-movie-app/static/css/main.a6d48ce8.css.map",
+    "main.5f170e6f.js.map": "/small-movie-app/static/js/main.5f170e6f.js.map",
+    "787.7c42db31.chunk.js.map": "/small-movie-app/static/js/787.7c42db31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6d48ce8.css",
-    "static/js/main.02bfe6aa.js"
+    "static/js/main.5f170e6f.js"
   ]
 }
